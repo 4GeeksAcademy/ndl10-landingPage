@@ -10,3 +10,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.nav-link{
+    color:#BDBDBD;
+}
+.navbar-brand{
+    color:#BDBDBD;
+}
+.navbar-toggler-icon{
+    background-color: #BDBDBD;
+}
